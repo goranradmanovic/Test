@@ -1,34 +1,26 @@
 {
-  "data": [
-      {
-        "name": "Group A",
-        "value": 400
-      },
-      {
-        "name": "Group B",
-        "value": 300
-      },
-      {
-        "name": "Group C",
-        "value": 300
-      },
-      {
-        "name": "Group D",
-        "value": 200
-      }
+    "data": [
+        {
+            "name": "Group A",
+            "value": 400
+        },
+        {
+            "name": "Group B",
+            "value": 300
+        },
+        {
+            "name": "Group C",
+            "value": 300
+        },
+        {
+            "name": "Group D",
+            "value": 200
+        }
+    ],
+    "colors": [
+        "#0088FE",
+        "#00C49F",
+        "#FFBB28",
+        "#FF8042"
     ]
-  },
-  "colors": {
-    "type": "array",
-    "items": {
-      "type": "string",
-      "description": "Color code"
-    },
-    "example": [
-      "#0088FE",
-      "#00C49F",
-      "#FFBB28",
-      "#FF8042"
-    ]
-  }
 }
