@@ -1,24 +1,31 @@
  {
    "messages": [
      {
-       "id": "msg1",
+       "id": "1",
        "content": "Team meeting at 3 PM today 🙂",
        "priority": "high",
        "timestamp": "2024-09-30T15:00:00Z",
        "read": false
      },
     {
-       "id": "msg2",
-       "content": "Team meeting at 5 PM today 🙂",
-       "priority": "high",
+       "id": "2",
+       "content": "Hello World",
+       "priority": "low",
        "timestamp": "2024-9-20T15:00:00Z",
        "read": false
      },
     {
-       "id": "msg3",
-       "content": "Team meeting at 9 PM today 🙂",
+       "id": "3",
+       "content": "Buy milk",
+       "priority": "medium",
+       "timestamp": "2024-09-8T15:00:00Z",
+       "read": false
+     },
+     {
+       "id": "4",
+       "content": "Go to gym",
        "priority": "high",
-       "timestamp": "2024-09-15T15:00:00Z",
+       "timestamp": "2024-09-7T15:00:00Z",
        "read": false
      }
    ]
